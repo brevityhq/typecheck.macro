@@ -1,0 +1,13 @@
+{
+  "name": "typecheck.macro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Brevity, Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.6.3",
+    "ajv-formats": "^2.1.1",
+    "babel-plugin-macros": "^3.1.0"
+  }
+}
